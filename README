@@ -1,4 +1,5 @@
-STM32Doom
+STM32Doom_Imported
+Imported from : https://github.com/floppes/stm32doom
 
 This is a port of Chocolate Doom for the STM32F429IDISCOVERY evaluation board.
 The board features the STM32F429 ARM Cortex-M4 microcontroller with 8 MB
